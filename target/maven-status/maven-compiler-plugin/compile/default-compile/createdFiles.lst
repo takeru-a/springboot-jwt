@@ -1,0 +1,5 @@
+com\sandbox\api\sandbox_api\controller\BookController.class
+com\sandbox\api\sandbox_api\SandboxApiApplication.class
+com\sandbox\api\sandbox_api\domain\service\BookService.class
+com\sandbox\api\sandbox_api\repository\BookRepository.class
+com\sandbox\api\sandbox_api\domain\entity\Book.class
